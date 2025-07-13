@@ -1,0 +1,12 @@
+streamlit
+requests
+dotenv
+datetime
+yt_dlp
+openai-whisper
+google.generativeai
+asyncio
+edge_tts
+fpdf2
+matplotlib
+wordcloud
