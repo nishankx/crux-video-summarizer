@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 #Ignore screenshots
-*.png
 
 # Distribution / packaging
 .Python
