@@ -3,7 +3,7 @@
 
 _CRUX is a minimal GUI tool using Python, designed to download, transcribe, and summarize long-form YouTube videos or uploaded media into crisp, structured insights. Whether it's a lecture, documentary, interview, or talk—CRUX extracts the essence, fast._
 
-<img src="Screenshot 2025-07-13 144539.png" width ="800" height ="350">
+<img src="screenshots/Screenshot 2025-07-13 144539.png" width ="800" height ="350">
 
 ---
 
@@ -37,7 +37,7 @@ Submit multiple links or files in a single session.
 All transcripts and summaries are logged but immutable, preserving reflection integrity.
 
 
-<img src="Screenshot 2025-07-13 172843.png" width ="800" height ="600">
+<img src="screenshots/Screenshot 2025-07-13 172843.png" width ="800" height ="600">
 
 ---
 
