@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-#Ignore screenshots
-*.png
 
 # Distribution / packaging
 .Python
